@@ -1,0 +1,17 @@
+{
+  "cadPartName": "DIM",
+  "properties": {
+    "Layer Name": "DIM",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "255,0,0",
+    "LineType": "CONTINUOUS",
+    "lineweight": "15",
+    "Plotstyle": "Color_1",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

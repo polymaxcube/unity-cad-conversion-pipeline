@@ -1,0 +1,8 @@
+{
+  "cadPartName": "점검창",
+  "properties": {
+    "layerName": "FRAME",
+    "entityID": "42672",
+    "entityType": "AcDbBlockReference"
+  }
+}

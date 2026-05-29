@@ -1,0 +1,8 @@
+{
+  "cadPartName": "DOOR600x1150",
+  "properties": {
+    "layerName": "FRAME",
+    "entityID": "22EA5",
+    "entityType": "AcDbBlockReference"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "cadPartName": "MM",
+  "properties": {
+    "layerName": "FRAME",
+    "entityID": "4CAD1",
+    "entityType": "AcDbBlockReference"
+  }
+}

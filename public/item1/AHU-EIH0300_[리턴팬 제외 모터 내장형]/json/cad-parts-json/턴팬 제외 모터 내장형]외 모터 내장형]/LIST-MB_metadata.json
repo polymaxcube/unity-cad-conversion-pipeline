@@ -1,0 +1,17 @@
+{
+  "cadPartName": "LIST-MB",
+  "properties": {
+    "Layer Name": "LIST-MB",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "255,255,255",
+    "LineType": "CONTINUOUS",
+    "lineweight": "-3",
+    "Plotstyle": "Color_7",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

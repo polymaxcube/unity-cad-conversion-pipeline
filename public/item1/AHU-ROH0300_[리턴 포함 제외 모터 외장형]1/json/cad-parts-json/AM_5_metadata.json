@@ -1,0 +1,17 @@
+{
+  "cadPartName": "AM_5",
+  "properties": {
+    "Layer Name": "AM_5",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "0,255,0",
+    "LineType": "CONTINUOUS",
+    "lineweight": "15",
+    "Plotstyle": "Color_3",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

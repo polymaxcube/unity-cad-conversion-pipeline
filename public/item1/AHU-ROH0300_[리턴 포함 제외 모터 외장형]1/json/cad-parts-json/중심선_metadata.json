@@ -1,0 +1,17 @@
+{
+  "cadPartName": "중심선",
+  "properties": {
+    "Layer Name": "중심선",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "255,0,0",
+    "LineType": "CENTER",
+    "lineweight": "-3",
+    "Plotstyle": "Color_1",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

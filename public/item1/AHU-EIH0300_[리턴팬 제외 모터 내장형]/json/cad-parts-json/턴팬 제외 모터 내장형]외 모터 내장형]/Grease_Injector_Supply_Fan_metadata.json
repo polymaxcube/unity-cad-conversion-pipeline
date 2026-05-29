@@ -1,0 +1,8 @@
+{
+  "cadPartName": "Grease_Injector_Supply_Fan",
+  "properties": {
+    "layerName": "FRAME",
+    "entityID": "41CE3",
+    "entityType": "AcDbBlockReference"
+  }
+}

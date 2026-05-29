@@ -1,0 +1,17 @@
+{
+  "cadPartName": "LIN",
+  "properties": {
+    "Layer Name": "LIN",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "255,255,0",
+    "LineType": "CONTINUOUS",
+    "lineweight": "-3",
+    "Plotstyle": "Color_2",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

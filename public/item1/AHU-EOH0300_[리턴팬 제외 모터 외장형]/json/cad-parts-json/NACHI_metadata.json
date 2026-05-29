@@ -1,0 +1,17 @@
+{
+  "cadPartName": "NACHI",
+  "properties": {
+    "Layer Name": "NACHI",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "127,0,0",
+    "LineType": "CONTINUOUS",
+    "lineweight": "-3",
+    "Plotstyle": "Color_16",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

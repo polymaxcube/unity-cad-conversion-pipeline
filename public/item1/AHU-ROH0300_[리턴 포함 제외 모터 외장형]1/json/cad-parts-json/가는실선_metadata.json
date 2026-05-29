@@ -1,0 +1,17 @@
+{
+  "cadPartName": "가는실선",
+  "properties": {
+    "Layer Name": "가는실선",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "255,0,0",
+    "LineType": "CONTINUOUS",
+    "lineweight": "-3",
+    "Plotstyle": "Color_1",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

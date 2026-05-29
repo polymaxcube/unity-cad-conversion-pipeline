@@ -1,0 +1,8 @@
+{
+  "cadPartName": "DAMPER320-1",
+  "properties": {
+    "layerName": "FRAME",
+    "entityID": "4CC6A",
+    "entityType": "AcDbBlockReference"
+  }
+}

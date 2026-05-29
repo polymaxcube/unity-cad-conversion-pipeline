@@ -1,0 +1,17 @@
+{
+  "cadPartName": "HAN",
+  "properties": {
+    "Layer Name": "HAN",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "214,214,214",
+    "LineType": "CONTINUOUS",
+    "lineweight": "-3",
+    "Plotstyle": "Color_254",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "cadPartName": "HOOD_평면도",
+  "properties": {
+    "layerName": "FRAME",
+    "entityID": "41896",
+    "entityType": "AcDbBlockReference"
+  }
+}

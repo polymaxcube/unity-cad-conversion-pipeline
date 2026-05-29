@@ -1,0 +1,17 @@
+{
+  "cadPartName": "CEN",
+  "properties": {
+    "Layer Name": "CEN",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "255,0,0",
+    "LineType": "CEN",
+    "lineweight": "-3",
+    "Plotstyle": "Color_1",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}

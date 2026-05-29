@@ -1,0 +1,17 @@
+{
+  "cadPartName": "CE",
+  "properties": {
+    "Layer Name": "CE",
+    "In Use": "false",
+    "On": "true",
+    "Frozen": "false",
+    "Locked": "false",
+    "color": "0,255,0",
+    "LineType": "CENTER",
+    "lineweight": "-3",
+    "Plotstyle": "Color_3",
+    "Plottable": "true",
+    "New VP Freeze": "true",
+    "Description": ""
+  }
+}
