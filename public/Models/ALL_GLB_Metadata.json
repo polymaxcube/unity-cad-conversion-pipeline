@@ -1,0 +1,2205 @@
+{
+  "unity_version": "6000.4.3f1",
+  "total_files": 1,
+  "succeeded": 1,
+  "failed": 0,
+  "generated_at": "2026-06-09 10:37:34",
+  "files": [
+    {
+      "source_file": "AHU-EIH0300_(LOD200)",
+      "raw_length": 25400,
+      "generator": "Unity 6000.4.3f1 glTFast 6.19.0",
+      "node_count": 1,
+      "mesh_count": 1,
+      "material_count": 1,
+      "children_count": 1,
+      "nodes": [
+        {
+          "cadPartName": "View 1"
+        },
+        {
+          "cadPartName": "Views",
+          "children": 0
+        },
+        {
+          "cadPartName": "Coordinates"
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2911",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2912",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2913",
+          "translation": [
+            0.003116798,
+            0.009672042,
+            0.007953586
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2915",
+          "translation": [
+            0.003116798,
+            -0.01279528,
+            -0.000492126
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2914",
+          "translation": [
+            0.003116798,
+            -0.01279528,
+            -0.0006627297
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            -0.5,
+            0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2916",
+          "translation": [
+            0.003116798,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2914",
+          "translation": [
+            0.003116798,
+            -0.01279528,
+            -0.005570866
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2915",
+          "translation": [
+            0.003116798,
+            0,
+            -0.00574147
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2914",
+          "translation": [
+            0.003116798,
+            0,
+            -0.005570866
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2916",
+          "translation": [
+            0.003116798,
+            0,
+            -0.000492126
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            0.5,
+            0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2914",
+          "translation": [
+            0.003116798,
+            -2.089293E-20,
+            -0.0006627297
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            0.5,
+            0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2917",
+          "translation": [
+            0.003116798,
+            -0.002908465,
+            -0.004344652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "scale": [
+            1.62,
+            1.62,
+            1.62
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2920",
+          "translation": [
+            0.003116798,
+            -0.001562546,
+            -0.005060652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2919",
+          "translation": [
+            0.003116798,
+            -0.001562546,
+            -0.005060652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2918",
+          "translation": [
+            0.003116798,
+            -0.001562546,
+            -0.005060652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2920",
+          "translation": [
+            0.003116798,
+            -0.007304911,
+            -0.005060652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2919",
+          "translation": [
+            0.003116798,
+            -0.007304911,
+            -0.005060652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2918",
+          "translation": [
+            0.003116798,
+            -0.007304911,
+            -0.005060652
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2921",
+          "translation": [
+            0.003116798,
+            -1.64042E-05,
+            -0.00574147
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2926",
+          "translation": [
+            0.003116798,
+            -0.001033465,
+            -0.0006069554
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2922",
+          "translation": [
+            0.003116798,
+            -0.001163196,
+            -0.00462925
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2922",
+          "translation": [
+            0.003116798,
+            -0.001163196,
+            -0.001020326
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2923",
+          "translation": [
+            0.003116798,
+            -0.002670604,
+            -0.001099081
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            0.5,
+            0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2924",
+          "translation": [
+            0.003116798,
+            -0.002670604,
+            -0.004708006
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2925",
+          "translation": [
+            0.003116798,
+            -0.00504057,
+            0.002474822
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2926",
+          "translation": [
+            0.003116798,
+            -0.007152231,
+            -0.000656168
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2922",
+          "translation": [
+            0.003116798,
+            -0.007281963,
+            -0.004678463
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2922",
+          "translation": [
+            0.003116798,
+            -0.007281963,
+            -0.001069539
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2923",
+          "translation": [
+            0.003116798,
+            -0.008789371,
+            -0.001148294
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            0.5,
+            0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2924",
+          "translation": [
+            0.003116798,
+            -0.008789371,
+            -0.004757218
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2925",
+          "translation": [
+            0.003116798,
+            -0.01115934,
+            0.00242561
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2927",
+          "translation": [
+            0.003116798,
+            -0.005247024,
+            -0.0006856956
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2928",
+          "translation": [
+            0.003116798,
+            -0.00296916,
+            -0.001153215
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2929",
+          "translation": [
+            0.003116798,
+            -0.003051181,
+            -0.001153215
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2930",
+          "translation": [
+            0.003116798,
+            -0.002952756,
+            -0.001123688
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2931",
+          "translation": [
+            0.003116798,
+            -0.003838583,
+            -0.00101706
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2928",
+          "translation": [
+            0.003116798,
+            -0.00296916,
+            -0.003154528
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2929",
+          "translation": [
+            0.003116798,
+            -0.003051181,
+            -0.003154528
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "geom_2930",
+          "translation": [
+            0.003116798,
+            -0.002952756,
+            -0.003125
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2932",
+          "translation": [
+            0.003116798,
+            -0.005177166,
+            -0.00101706
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2938",
+          "translation": [
+            0.003116798,
+            -0.007351147,
+            -0.0007912036
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2934",
+          "translation": [
+            0.003116798,
+            -0.01094923,
+            -0.0007912035
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "scale": [
+            0.87,
+            0.87,
+            0.87
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2933",
+          "translation": [
+            0.003116798,
+            -0.01094923,
+            -0.0007912036
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "scale": [
+            0.87,
+            0.87,
+            0.87
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_2935",
+          "translation": [
+            0.003116798,
+            -0.00850618,
+            -0.0007912035
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            0.5,
+            -0.5
+          ],
+          "scale": [
+            0.87,
+            0.87,
+            0.87
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2933",
+          "translation": [
+            0.003116798,
+            -0.00850618,
+            -0.0007912036
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            0.5,
+            -0.5
+          ],
+          "scale": [
+            0.87,
+            0.87,
+            0.87
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2937",
+          "translation": [
+            0.003116798,
+            -0.008889413,
+            -0.001535433
+          ],
+          "rotation": [
+            0.5,
+            -0.5,
+            0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2936",
+          "translation": [
+            0.003116798,
+            -0.008274247,
+            -0.002332677
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2939",
+          "translation": [
+            0.003116798,
+            0.009538153,
+            0.01556834
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2941",
+          "translation": [
+            0.003116798,
+            0.01238205,
+            0.0008698034
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2940",
+          "translation": [
+            0.003116798,
+            -0.01279528,
+            -0.004132643
+          ],
+          "rotation": [
+            0.5,
+            0.5,
+            -0.5,
+            -0.5
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_2921",
+          "translation": [
+            0.003116798,
+            0,
+            -0.002116142
+          ],
+          "rotation": [
+            0,
+            -0.7071068,
+            0,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            1,
+            0.9999999
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "Left.dwg",
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3112",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3113",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3114",
+          "translation": [
+            0.02142625,
+            0.009606426,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3116",
+          "translation": [
+            0.003117075,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            -0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            0.002946471,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            -0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3117",
+          "translation": [
+            -0.003116521,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            -0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            -0.002945917,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            -0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3117",
+          "translation": [
+            0.003117075,
+            -1.598721E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            0.002946471,
+            -1.59571E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3117",
+          "translation": [
+            0.003117075,
+            -1.598721E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            0.002946471,
+            -1.59571E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3117",
+          "translation": [
+            0.003117075,
+            -1.598721E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            0.002946471,
+            -1.59571E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3116",
+          "translation": [
+            -0.003116521,
+            -1.474376E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            -0.002945917,
+            -1.477596E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3116",
+          "translation": [
+            -0.003116521,
+            -1.474376E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            -0.002945917,
+            -1.477596E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3116",
+          "translation": [
+            -0.003116521,
+            -1.350031E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3115",
+          "translation": [
+            -0.002945917,
+            -1.353251E-16,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3118",
+          "translation": [
+            0.002953033,
+            -1.64042E-05,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3119",
+          "translation": [
+            0.002378886,
+            -0.003838583,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3120",
+          "translation": [
+            0.002398571,
+            -0.00296916,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3121",
+          "translation": [
+            0.002398571,
+            -0.003051181,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3122",
+          "translation": [
+            0.002428099,
+            -0.002952756,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3123",
+          "translation": [
+            0.0003972585,
+            -0.00296916,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3121",
+          "translation": [
+            0.0003972585,
+            -0.003051181,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "geom_3124",
+          "translation": [
+            0.0004267861,
+            -0.002952756,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3125",
+          "translation": [
+            0.002378886,
+            -0.005177166,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3126",
+          "translation": [
+            -0.00158929,
+            -0.00296916,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3127",
+          "translation": [
+            -0.00158929,
+            -0.003051181,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "geom_3128",
+          "translation": [
+            -0.001574526,
+            -0.002952756,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ]
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3131",
+          "translation": [
+            0.001997907,
+            -0.007419141,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3129",
+          "translation": [
+            0.00137823,
+            -0.008658105,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3130",
+          "translation": [
+            0.001906445,
+            -0.008274247,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3132",
+          "translation": [
+            0.02910496,
+            0.009855061,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3133",
+          "translation": [
+            0.001572785,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0,
+            0,
+            0.7071068,
+            0.7071067
+          ],
+          "scale": [
+            0.9999999,
+            0.9999999,
+            1
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3134",
+          "translation": [
+            -0.001572231,
+            -0.01279528,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "brep"
+        },
+        {
+          "cadPartName": "mesh"
+        },
+        {
+          "cadPartName": "geom_3135",
+          "translation": [
+            0.003472876,
+            -6.141413E-05,
+            -0.00574147
+          ],
+          "rotation": [
+            0.7071068,
+            -0.7071068,
+            0,
+            0
+          ],
+          "scale": [
+            1,
+            1,
+            1.000001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "Top.dwg",
+          "children": 0
+        },
+        {
+          "cadPartName": "Import Symbol",
+          "children": 0
+        },
+        {
+          "cadPartName": "Imports in Families",
+          "children": 0
+        },
+        {
+          "cadPartName": "Ref. Level",
+          "children": 0
+        },
+        {
+          "cadPartName": "Extrusion"
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 1
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 2
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 3
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 4
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 5
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 6
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 7
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 8
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 9
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 10
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 11
+        },
+        {
+          "cadPartName": "Extrusion",
+          "mesh": 12
+        },
+        {
+          "cadPartName": "Void Extrusion"
+        },
+        {
+          "cadPartName": "GameObject 14",
+          "mesh": 13
+        },
+        {
+          "cadPartName": "(none)",
+          "children": 0
+        },
+        {
+          "cadPartName": "AHU-EIH0300_(LOD200).rfa",
+          "rotation": [
+            0,
+            -0.7071068,
+            0.7071068,
+            0
+          ],
+          "scale": [
+            304.8002,
+            304.8001,
+            304.8001
+          ],
+          "children": 0
+        },
+        {
+          "cadPartName": "AHU-EIH0300_(LOD200)",
+          "translation": [
+            -0.708573,
+            -2.324518E-07,
+            -8.182389
+          ],
+          "children": 0
+        }
+      ]
+    }
+  ]
+}

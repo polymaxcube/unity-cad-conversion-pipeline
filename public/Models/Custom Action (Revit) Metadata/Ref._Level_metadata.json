@@ -1,0 +1,30 @@
+{
+  "cadPartName": "Ref._Level",
+  "properties": {
+    "Category": "Levels",
+    "IFC Parameters/Export to IFC": "By Type",
+    "IFC Parameters/IfcGUID": "3Q3EeUWleHqwVR011QfpOi",
+    "Identity Data/Design Option": "-1",
+    "Extents/Scope Box": "None",
+    "Identity Data/Name": "Ref. Level",
+    "Constraints/Elevation": "0",
+    "Family and Type": "Level : Level 1",
+    "Family": "Level",
+    "Type": "Level 1",
+    "Family Name": "",
+    "Identity Data/Type Name": "",
+    "Type Id": "Level 1",
+    "Type/Category": "Levels",
+    "Type/IFC Parameters/Export Type to IFC": "Default",
+    "Type/IFC Parameters/Type IfcGUID": "3Q3EeUWleHqwVR011QfpOh",
+    "Type/Identity Data/Design Option": "-1",
+    "Type/Graphics/Symbol at End 1 Default": "No",
+    "Type/Graphics/Symbol at End 2 Default": "Yes",
+    "Type/Graphics/Symbol": "6 mm",
+    "Type/Graphics/Line Pattern": "Dash dot",
+    "Type/Graphics/Color": "Black",
+    "Type/Graphics/Line Weight": "1",
+    "Type/Family Name": "Level",
+    "Type/Identity Data/Type Name": "Level 1"
+  }
+}

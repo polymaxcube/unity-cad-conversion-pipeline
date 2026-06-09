@@ -1,0 +1,24 @@
+{
+  "cadPartName": "Imports_in_Families",
+  "properties": {
+    "Category": "Imports in Families",
+    "Identity Data/Design Option": "-1",
+    "Dimensions/Instance Scale": "1",
+    "Constraints/Offset from Work Plane": "-2424",
+    "Constraints/Work Plane": "Ref. Level",
+    "Identity Data/Name": "Left.dwg",
+    "Graphics/Visible": "Yes",
+    "Family and Type": "Import Symbol : Left.dwg",
+    "Family": "Import Symbol",
+    "Type": "Left.dwg",
+    "Family Name": "",
+    "Identity Data/Type Name": "",
+    "Type Id": "Left.dwg",
+    "Type/Category": "Imports in Families",
+    "Type/Identity Data/Design Option": "-1",
+    "Type/Dimensions/Import Units": "millimeter",
+    "Type/Dimensions/Scale Factor": "1",
+    "Type/Family Name": "Import Symbol",
+    "Type/Identity Data/Type Name": "Left.dwg"
+  }
+}

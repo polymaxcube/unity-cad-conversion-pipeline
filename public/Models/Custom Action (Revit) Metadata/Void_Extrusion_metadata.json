@@ -1,0 +1,13 @@
+{
+  "cadPartName": "Void_Extrusion",
+  "properties": {
+    "Graphics/Cuts Geometry": "Yes",
+    "Category": "",
+    "Identity Data/Design Option": "-1",
+    "Family Name": "",
+    "Identity Data/Type Name": "",
+    "Constraints/Extrusion End": "20",
+    "Constraints/Extrusion Start": "0",
+    "Constraints/Work Plane": "Extrusion"
+  }
+}

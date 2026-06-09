@@ -1,0 +1,17 @@
+{
+  "cadPartName": "Extrusion",
+  "properties": {
+    "Category": "",
+    "Identity Data/Design Option": "-1",
+    "Graphics/Visible": "Yes",
+    "Identity Data/Subcategory": "(none)",
+    "Materials and Finishes/Material": "<By Category>",
+    "Family Name": "",
+    "Identity Data/Type Name": "",
+    "Graphics/Visibility/Graphics Overrides": "57406",
+    "Identity Data/Solid/Void": "Solid",
+    "Constraints/Extrusion End": "1095",
+    "Constraints/Extrusion Start": "685",
+    "Constraints/Work Plane": "Level : Ref. Level"
+  }
+}
